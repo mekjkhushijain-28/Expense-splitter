@@ -1,0 +1,23 @@
+# Build directories
+build/
+cmake-build-*/
+*.o
+*.a
+*.so
+*.dylib
+
+# Executables
+expense_splitter
+*.exe
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+*/
